@@ -1,4 +1,4 @@
-include_recipe 'homebrew'
+#include_recipe 'homebrew'
 
 # Explicitly choose a unique resource name to avoid warnings
 # See https://tickets.opscode.com/browse/CHEF-2812
